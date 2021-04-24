@@ -1,4 +1,5 @@
 import sys
+raw_input = input
 # My Menu
 print('--')
 print('Welcome to the String Reversal Program')
